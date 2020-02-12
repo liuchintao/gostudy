@@ -1,8 +1,8 @@
 swagger: "2.0"
 consumes:
-- application/io.goswagger.examples.todo-list.v1+json
+- application/json
 produces:
-- application/io.goswagger.examples.todo-list.v1+json
+- application/json
 schemes:
 - http
 info:
